@@ -1,4 +1,3 @@
-Eclipse home page
-=================
-
-This repository is the holds the content for the https://www.eclipse.org/eclipse/ website.
+Eclipse Project
+===============
+This repository holds the contents for the [Eclipse Project](https://www.eclipse.org/eclipse) website.
